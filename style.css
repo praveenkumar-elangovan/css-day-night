@@ -75,7 +75,7 @@ h1 small{display:block;font-weight:400;font-size:.7em;opacity:.85}
 #t:checked~.house .walls{background:#9c8460}
 .roof{position:absolute;left:-8%;right:-8%;top:0;height:40%;background:#b5483a;clip-path:polygon(50% 0,100% 100%,0 100%)}
 .door{position:absolute;left:41%;bottom:0;width:18%;height:42%;background:#6b3f26;border-radius:6px 6px 0 0}
-.win{position:absolute;top:22%;width:20%;height:26%;background:var(--win);border:3px solid #6b3f26;border-radius:3px;transition:box-shadow 1.2s}
+.win{position:absolute;top:48%;width:20%;height:26%;background:var(--win);border:3px solid #6b3f26;border-radius:3px;transition:box-shadow 1.2s}
 .win.a{left:12%}.win.b{right:12%}
 #t:checked~.house .win{box-shadow:0 0 28px 8px rgba(255,211,107,.7)}
 
