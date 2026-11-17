@@ -28,4 +28,4 @@ css-day-night/
 
 ## Author
 Praveenkumar E
-GitHub: https://github.com/un-username
+GitHub: https://github.com/praveenkumar-elangovan
