@@ -3,7 +3,7 @@
 An interactive day and night scene built with **zero JavaScript**, using only HTML and CSS.
 
 ## Live Demo
-https://un-project.vercel.app
+https://css-day-night.vercel.app
 
 ## Features
 - Toggle switch changes the scene from day to night
